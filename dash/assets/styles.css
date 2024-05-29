@@ -1,0 +1,42 @@
+.sidebar_style {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 150px;
+    background-color: black;
+    padding: 20px;
+    color: white;
+    padding-top: 50px;
+}
+
+.button_style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border: none;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-size: medium;
+    font-weight: 400;
+}
+
+
+.button_style:hover {
+    background-color: rgb(41, 8, 67);
+}
+
+.button_style:focus {
+    background-color: rgb(88, 67, 228);
+}
+
+
+.content_style {
+    margin-left: 220px;
+    padding: 20px;
+    z-index: -1;
+}

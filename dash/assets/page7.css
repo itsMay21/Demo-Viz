@@ -1,0 +1,64 @@
+/* Style for the text container */
+.text-container {
+    background-image: url('https://img.freepik.com/free-vector/worldwide-connection-gray-background-illustration-vector_53876-61772.jpg?t=st=1713375587~exp=1713379187~hmac=f5926c31e5fc0252a94a41530db798dcb31212e56be7f635fdc3472d674afc2a&w=2000'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 60px 20px;
+    filter: brightness(100%); /* Adjust the brightness percentage as needed */
+    border-radius: 10px; /* Add rounded corners */
+    margin-bottom: 20px; /* Add vertical space between containers */
+}
+
+/* Style for the dropdown container */
+.dropdown-container {
+    display: flex;
+    justify-content: center; /* Align items side by side */
+    align-items: center;
+    background-color: rgba(186, 190, 252, 0.4); /* Light violet background color */
+    border-radius: 8px; /* Rounded corners */
+    padding: 30px;
+    margin-bottom: 20px; /* Add vertical space between containers */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+}
+
+.dropdown-container label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.dropdown-container select {
+    width: 45%; /* Adjust width to fit two items side by side */
+    padding: 30px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+/* Style for the plot container */
+.plot-container {
+    display: flex;
+    justify-content: center; /* Align items side by side */
+    align-items: center;
+    background-color: rgba(186, 190, 252, 0.4); /* Light violet background color */
+    border-radius: 8px; /* Rounded corners */
+    padding: 40px;
+    margin-bottom: 20px; /* Add vertical space between containers */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+}
+
+.plot-item {
+    width: calc(50% - 20px); /* Set the width of each plot item */
+    margin-bottom: 20px; /* Add vertical space between plot items */
+    border: 1px solid #ddd; /* Border color for each plot container */
+    background-color: rgba(186, 190, 252, 0.4); /* Light violet background color */
+    padding: 30px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+}
+
+.plot-item h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}

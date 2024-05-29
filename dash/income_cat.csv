@@ -1,0 +1,266 @@
+Country Name,Country Code,Region,Income Group
+Afghanistan,AFG,South Asia,0
+Africa Eastern and Southern,AFE,,
+Africa Western and Central,AFW,,
+Albania,ALB,Europe & Central Asia,2
+Algeria,DZA,Middle East & North Africa,1
+American Samoa,ASM,East Asia & Pacific,3
+Andorra,AND,Europe & Central Asia,3
+Angola,AGO,Sub-Saharan Africa,1
+Antigua and Barbuda,ATG,Latin America & Caribbean,3
+Arab World,ARB,,
+Argentina,ARG,Latin America & Caribbean,2
+Armenia,ARM,Europe & Central Asia,2
+Aruba,ABW,Latin America & Caribbean,3
+Australia,AUS,East Asia & Pacific,3
+Austria,AUT,Europe & Central Asia,3
+Azerbaijan,AZE,Europe & Central Asia,2
+"Bahamas, The",BHS,Latin America & Caribbean,3
+Bahrain,BHR,Middle East & North Africa,3
+Bangladesh,BGD,South Asia,1
+Barbados,BRB,Latin America & Caribbean,3
+Belarus,BLR,Europe & Central Asia,2
+Belgium,BEL,Europe & Central Asia,3
+Belize,BLZ,Latin America & Caribbean,2
+Benin,BEN,Sub-Saharan Africa,1
+Bermuda,BMU,North America,3
+Bhutan,BTN,South Asia,1
+Bolivia,BOL,Latin America & Caribbean,1
+Bosnia and Herzegovina,BIH,Europe & Central Asia,2
+Botswana,BWA,Sub-Saharan Africa,2
+Brazil,BRA,Latin America & Caribbean,2
+British Virgin Islands,VGB,Latin America & Caribbean,3
+Brunei Darussalam,BRN,East Asia & Pacific,3
+Bulgaria,BGR,Europe & Central Asia,2
+Burkina Faso,BFA,Sub-Saharan Africa,0
+Burundi,BDI,Sub-Saharan Africa,0
+Cabo Verde,CPV,Sub-Saharan Africa,1
+Cambodia,KHM,East Asia & Pacific,1
+Cameroon,CMR,Sub-Saharan Africa,1
+Canada,CAN,North America,3
+Caribbean small states,CSS,,
+Cayman Islands,CYM,Latin America & Caribbean,3
+Central African Republic,CAF,Sub-Saharan Africa,0
+Central Europe and the Baltics,CEB,,
+Chad,TCD,Sub-Saharan Africa,0
+Channel Islands,CHI,Europe & Central Asia,3
+Chile,CHL,Latin America & Caribbean,3
+China,CHN,East Asia & Pacific,2
+Colombia,COL,Latin America & Caribbean,2
+Comoros,COM,Sub-Saharan Africa,1
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,0
+"Congo, Rep.",COG,Sub-Saharan Africa,1
+Costa Rica,CRI,Latin America & Caribbean,2
+Côte d'Ivoire,CIV,Sub-Saharan Africa,1
+Croatia,HRV,Europe & Central Asia,3
+Cuba,CUB,Latin America & Caribbean,2
+Curaçao,CUW,Latin America & Caribbean,3
+Cyprus,CYP,Europe & Central Asia,3
+Czechia,CZE,Europe & Central Asia,3
+Denmark,DNK,Europe & Central Asia,3
+Djibouti,DJI,Middle East & North Africa,1
+Dominica,DMA,Latin America & Caribbean,2
+Dominican Republic,DOM,Latin America & Caribbean,2
+Early-demographic dividend,EAR,,
+East Asia & Pacific,EAS,,
+East Asia & Pacific (excluding 3),EAP,,
+East Asia & Pacific (IDA & IBRD),TEA,,
+Ecuador,ECU,Latin America & Caribbean,2
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,1
+El Salvador,SLV,Latin America & Caribbean,2
+Equatorial Guinea,GNQ,Sub-Saharan Africa,2
+Eritrea,ERI,Sub-Saharan Africa,0
+Estonia,EST,Europe & Central Asia,3
+Eswatini,SWZ,Sub-Saharan Africa,1
+Ethiopia,ETH,Sub-Saharan Africa,0
+Euro area,EMU,,
+Europe & Central Asia,ECS,,
+Europe & Central Asia (excluding 3),ECA,,
+Europe & Central Asia (IDA & IBRD),TEC,,
+European Union,EUU,,
+Faroe Islands,FRO,Europe & Central Asia,3
+Fiji,FJI,East Asia & Pacific,2
+Finland,FIN,Europe & Central Asia,3
+Fragile and conflict affected situations,FCS,,
+France,FRA,Europe & Central Asia,3
+French Polynesia,PYF,East Asia & Pacific,3
+Gabon,GAB,Sub-Saharan Africa,2
+"Gambia, The",GMB,Sub-Saharan Africa,0
+Georgia,GEO,Europe & Central Asia,2
+Germany,DEU,Europe & Central Asia,3
+Ghana,GHA,Sub-Saharan Africa,1
+Gibraltar,GIB,Europe & Central Asia,3
+Greece,GRC,Europe & Central Asia,3
+Greenland,GRL,Europe & Central Asia,3
+Grenada,GRD,Latin America & Caribbean,2
+Guam,GUM,East Asia & Pacific,3
+Guatemala,GTM,Latin America & Caribbean,2
+Guinea,GIN,Sub-Saharan Africa,1
+Guinea-Bissau,GNB,Sub-Saharan Africa,0
+Guyana,GUY,Latin America & Caribbean,3
+Haiti,HTI,Latin America & Caribbean,1
+Heavily indebted poor countries (HIPC),HPC,,
+3,HIC,,
+Honduras,HND,Latin America & Caribbean,1
+"Hong Kong SAR, China",HKG,East Asia & Pacific,3
+Hungary,HUN,Europe & Central Asia,3
+IBRD only,IBD,,
+Iceland,ISL,Europe & Central Asia,3
+IDA & IBRD total,IBT,,
+IDA blend,IDB,,
+IDA only,IDX,,
+IDA total,IDA,,
+India,IND,South Asia,1
+Indonesia,IDN,East Asia & Pacific,2
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,1
+Iraq,IRQ,Middle East & North Africa,2
+Ireland,IRL,Europe & Central Asia,3
+Isle of Man,IMN,Europe & Central Asia,3
+Israel,ISR,Middle East & North Africa,3
+Italy,ITA,Europe & Central Asia,3
+Jamaica,JAM,Latin America & Caribbean,2
+Japan,JPN,East Asia & Pacific,3
+Jordan,JOR,Middle East & North Africa,1
+Kazakhstan,KAZ,Europe & Central Asia,2
+Kenya,KEN,Sub-Saharan Africa,1
+Kiribati,KIR,East Asia & Pacific,1
+"Korea, Dem. People's Rep.",PRK,East Asia & Pacific,0
+"Korea, Rep.",KOR,East Asia & Pacific,3
+Kosovo,XKX,Europe & Central Asia,2
+Kuwait,KWT,Middle East & North Africa,3
+Kyrgyz Republic,KGZ,Europe & Central Asia,1
+Lao PDR,LAO,East Asia & Pacific,1
+Late-demographic dividend,LTE,,
+Latin America & Caribbean,LCN,,
+Latin America & Caribbean (excluding 3),LAC,,
+Latin America & Caribbean (IDA & IBRD),TLA,,
+Latvia,LVA,Europe & Central Asia,3
+Least developed countries: UN classification,LDC,,
+Lebanon,LBN,Middle East & North Africa,1
+Lesotho,LSO,Sub-Saharan Africa,1
+Liberia,LBR,Sub-Saharan Africa,0
+Libya,LBY,Middle East & North Africa,2
+Liechtenstein,LIE,Europe & Central Asia,3
+Lithuania,LTU,Europe & Central Asia,3
+Low & middle income,LMY,,
+0,LIC,,
+1,LMC,,
+Luxembourg,LUX,Europe & Central Asia,3
+"Macao SAR, China",MAC,East Asia & Pacific,3
+Madagascar,MDG,Sub-Saharan Africa,0
+Malawi,MWI,Sub-Saharan Africa,0
+Malaysia,MYS,East Asia & Pacific,2
+Maldives,MDV,South Asia,2
+Mali,MLI,Sub-Saharan Africa,0
+Malta,MLT,Middle East & North Africa,3
+Marshall Islands,MHL,East Asia & Pacific,2
+Mauritania,MRT,Sub-Saharan Africa,1
+Mauritius,MUS,Sub-Saharan Africa,2
+Mexico,MEX,Latin America & Caribbean,2
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,1
+Middle East & North Africa,MEA,,
+Middle East & North Africa (excluding 3),MNA,,
+Middle East & North Africa (IDA & IBRD),TMN,,
+Middle income,MIC,,
+Moldova,MDA,Europe & Central Asia,2
+Monaco,MCO,Europe & Central Asia,3
+Mongolia,MNG,East Asia & Pacific,1
+Montenegro,MNE,Europe & Central Asia,2
+Morocco,MAR,Middle East & North Africa,1
+Mozambique,MOZ,Sub-Saharan Africa,0
+Myanmar,MMR,East Asia & Pacific,1
+Namibia,NAM,Sub-Saharan Africa,2
+Nauru,NRU,East Asia & Pacific,3
+Nepal,NPL,South Asia,1
+Netherlands,NLD,Europe & Central Asia,3
+New Caledonia,NCL,East Asia & Pacific,3
+New Zealand,NZL,East Asia & Pacific,3
+Nicaragua,NIC,Latin America & Caribbean,1
+Niger,NER,Sub-Saharan Africa,0
+Nigeria,NGA,Sub-Saharan Africa,1
+North America,NAC,,
+North Macedonia,MKD,Europe & Central Asia,2
+Northern Mariana Islands,MNP,East Asia & Pacific,3
+Norway,NOR,Europe & Central Asia,3
+OECD members,OED,,
+Oman,OMN,Middle East & North Africa,3
+Other small states,OSS,,
+Pacific island small states,PSS,,
+Pakistan,PAK,South Asia,1
+Palau,PLW,East Asia & Pacific,2
+Panama,PAN,Latin America & Caribbean,3
+Papua New Guinea,PNG,East Asia & Pacific,1
+Paraguay,PRY,Latin America & Caribbean,2
+Peru,PER,Latin America & Caribbean,2
+Philippines,PHL,East Asia & Pacific,1
+Poland,POL,Europe & Central Asia,3
+Portugal,PRT,Europe & Central Asia,3
+Post-demographic dividend,PST,,
+Pre-demographic dividend,PRE,,
+Puerto Rico,PRI,Latin America & Caribbean,3
+Qatar,QAT,Middle East & North Africa,3
+Romania,ROU,Europe & Central Asia,3
+Russian Federation,RUS,Europe & Central Asia,2
+Rwanda,RWA,Sub-Saharan Africa,0
+Samoa,WSM,East Asia & Pacific,1
+San Marino,SMR,Europe & Central Asia,3
+São Tomé and Principe,STP,Sub-Saharan Africa,1
+Saudi Arabia,SAU,Middle East & North Africa,3
+Senegal,SEN,Sub-Saharan Africa,1
+Serbia,SRB,Europe & Central Asia,2
+Seychelles,SYC,Sub-Saharan Africa,3
+Sierra Leone,SLE,Sub-Saharan Africa,0
+Singapore,SGP,East Asia & Pacific,3
+Sint Maarten (Dutch part),SXM,Latin America & Caribbean,3
+Slovak Republic,SVK,Europe & Central Asia,3
+Slovenia,SVN,Europe & Central Asia,3
+Small states,SST,,
+Solomon Islands,SLB,East Asia & Pacific,1
+Somalia,SOM,Sub-Saharan Africa,0
+South Africa,ZAF,Sub-Saharan Africa,2
+South Asia,SAS,,
+South Asia (IDA & IBRD),TSA,,
+South Sudan,SSD,Sub-Saharan Africa,0
+Spain,ESP,Europe & Central Asia,3
+Sri Lanka,LKA,South Asia,1
+St. Kitts and Nevis,KNA,Latin America & Caribbean,3
+St. Lucia,LCA,Latin America & Caribbean,2
+St. Martin (French part),MAF,Latin America & Caribbean,3
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2
+Sub-Saharan Africa,SSF,,
+Sub-Saharan Africa (excluding 3),SSA,,
+Sub-Saharan Africa (IDA & IBRD),TSS,,
+Sudan,SDN,Sub-Saharan Africa,0
+Suriname,SUR,Latin America & Caribbean,2
+Sweden,SWE,Europe & Central Asia,3
+Switzerland,CHE,Europe & Central Asia,3
+Syrian Arab Republic,SYR,Middle East & North Africa,0
+Tajikistan,TJK,Europe & Central Asia,1
+Tanzania,TZA,Sub-Saharan Africa,1
+Thailand,THA,East Asia & Pacific,2
+Timor-Leste,TLS,East Asia & Pacific,1
+Togo,TGO,Sub-Saharan Africa,0
+Tonga,TON,East Asia & Pacific,2
+Trinidad and Tobago,TTO,Latin America & Caribbean,3
+Tunisia,TUN,Middle East & North Africa,1
+Türkiye,TUR,Europe & Central Asia,2
+Turkmenistan,TKM,Europe & Central Asia,2
+Turks and Caicos Islands,TCA,Latin America & Caribbean,3
+Tuvalu,TUV,East Asia & Pacific,2
+Uganda,UGA,Sub-Saharan Africa,0
+Ukraine,UKR,Europe & Central Asia,1
+United Arab Emirates,ARE,Middle East & North Africa,3
+United Kingdom,GBR,Europe & Central Asia,3
+United States,USA,North America,3
+2,UMC,,
+Uruguay,URY,Latin America & Caribbean,3
+Uzbekistan,UZB,Europe & Central Asia,1
+Vanuatu,VUT,East Asia & Pacific,1
+"Venezuela, RB",VEN,Latin America & Caribbean,
+Viet Nam,VNM,East Asia & Pacific,1
+Virgin Islands (U.S.),VIR,Latin America & Caribbean,3
+West Bank and Gaza,PSE,Middle East & North Africa,2
+World,WLD,,
+"Yemen, Rep.",YEM,Middle East & North Africa,0
+Zambia,ZMB,Sub-Saharan Africa,1
+Zimbabwe,ZWE,Sub-Saharan Africa,1

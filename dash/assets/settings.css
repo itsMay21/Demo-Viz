@@ -1,0 +1,50 @@
+/* Update the font for the entire layout */
+body {
+    font-family: 'Roboto', Arial, sans-serif; /* Updated font style */
+    font-size: 20px; /* Updated font size */
+}
+
+.page1_style {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+}
+
+.container-blue {
+    background-color: #d1d1fa;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.radio-container,
+.dropdown-container {
+    display: flex; /* Use flexbox for horizontal alignment */
+    align-items: center; /* Align items vertically */
+}
+
+.radio-container label {
+    margin-right: 10px; /* Add spacing between radio buttons */
+    font-family:monospace;
+}
+
+.dropdown-container select {
+    margin-right: 5px; /* Add spacing between dropdowns */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 3px; /* Decrease the padding */
+    font-size: 24px; /* Increase the font size */
+}
+
+.button {
+    margin-bottom: 10px;
+}
+
+.result-container {
+    margin-top: 3px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
